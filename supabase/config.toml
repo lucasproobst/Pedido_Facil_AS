@@ -1,0 +1,5 @@
+
+project_id = "d4246a76-576d-40e0-92ee-d65391603d62"
+
+[functions.send-order-confirmation]
+verify_jwt = false
